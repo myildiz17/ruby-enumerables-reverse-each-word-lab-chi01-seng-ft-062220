@@ -31,7 +31,7 @@ def reverse_each_word (string)
     reversed=[]
     while count<string.size do
      string.collect do |element|
-     element.reverse
+     reversed<<element.reverse
     count+=1
     end
     combined_reversed=string.join(" ")
