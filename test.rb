@@ -10,7 +10,8 @@
 
 p b="selam kelam hacim".split(" ")
 count=0
-while count<3 do
-
+while count<3 do |ele|
+puts ele.reverse 
+end
 end
 end
