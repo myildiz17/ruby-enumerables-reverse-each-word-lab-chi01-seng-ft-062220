@@ -9,4 +9,3 @@
 "selam kelam hacim"
 
 puts "selam kelam hacim".split("")
-
