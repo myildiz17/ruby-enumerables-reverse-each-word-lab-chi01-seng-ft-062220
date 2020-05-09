@@ -15,9 +15,9 @@ def reverse_each_word (string)
     count+=1
     end
 
-    combined_reversed= reversed.join(" ")
+    p combined_reversed= reversed.join(" ")
     
     end
 end
 
-p reverse_each_word ("selam kelam hacim")
+ reverse_each_word ("selam kelam hacim")
