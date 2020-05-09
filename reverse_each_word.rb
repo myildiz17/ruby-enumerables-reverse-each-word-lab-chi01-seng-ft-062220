@@ -14,7 +14,7 @@
   #    reversed<<element.reverse
   #  count+=1
   #  end
-    combined_reversed= reversed.join(" ")
+  #  combined_reversed= reversed.join(" ")
   #  end
   #  combined_reversed
 #end
