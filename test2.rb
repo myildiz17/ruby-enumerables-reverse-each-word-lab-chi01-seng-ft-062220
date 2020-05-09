@@ -1,3 +1,5 @@
+require 'pry'
+
 def reverse_each_word (string)
 #reversed=[]
 #  string=string.split("")
@@ -12,6 +14,7 @@ def reverse_each_word (string)
       reversed<<element.reverse
     count+=1
     end
+    binding.pry
     reversed.join(" ")
     end
 end
