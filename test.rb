@@ -14,5 +14,6 @@ while count<3 do
   b.each do |ele|
 puts ele.reverse
 end
+end
 count+=
 end
