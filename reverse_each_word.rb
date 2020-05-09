@@ -16,4 +16,5 @@ def reverse_each_word (string)
     end
     combined_reversed= reversed.join(" ")
     end
+    combined_reversed
 end
