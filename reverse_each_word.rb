@@ -1,4 +1,4 @@
-
+include 'pry'
 
 #def reverse_each_word (string)
 #reversed=[]
@@ -34,6 +34,7 @@ def reverse_each_word (string)
      element.reverse
     count+=1
     end
+    binding.pry
     string.join(" ")
     end
     string
