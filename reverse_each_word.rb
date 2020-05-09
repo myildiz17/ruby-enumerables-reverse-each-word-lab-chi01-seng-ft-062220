@@ -14,6 +14,6 @@ def reverse_each_word (string)
       reversed<<element.reverse
     count+=1
     end
-    reversed.join(" ")
+    combined_reversed= reversed.join(" ")
     end
 end
