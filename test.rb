@@ -8,4 +8,9 @@
 
 "selam kelam hacim"
 
-p "selam kelam hacim".split(" ")
+p b="selam kelam hacim".split(" ")
+count=0
+while count<3 do
+  
+end  
+end
