@@ -1,4 +1,4 @@
-require 'pry'
+#require 'pry'
 
 def reverse_each_word (string)
 #reversed=[]
@@ -21,4 +21,4 @@ def reverse_each_word (string)
     combined_reversed
 end
 
- reverse_each_word ("selam kelam hacim")
+
