@@ -18,3 +18,23 @@ def reverse_each_word (string)
     end
     combined_reversed
 end
+
+
+def reverse_each_word (string)
+#reversed=[]
+#  string=string.split("")
+#  string.each do {|i| reversed.unshifted(i)}
+#    "selam kelam hacim"
+
+    string=string.split(" ")
+    count=0
+    reversed=[]
+    while count<string.size do
+      string.collect do |element|
+      element.reverse
+    count+=1
+    end
+    combined_reversed= string.join(" ")
+    end
+    combined_reversed
+end
