@@ -16,4 +16,4 @@ def reverse_each_word (string)
     end
 end
 
-puts reverse_each_word ("selam kelam hacim")
+p reverse_each_word ("selam kelam hacim")
