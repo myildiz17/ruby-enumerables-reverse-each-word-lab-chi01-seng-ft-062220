@@ -16,4 +16,4 @@ puts ele.reverse
 end
 count+=
 end
-end
+
