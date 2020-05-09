@@ -14,7 +14,7 @@ def reverse_each_word (string)
       reversed<<element.reverse
     count+=1
     end
-    
+
     reversed.join(" ")
     binding.pry
     end
