@@ -1,5 +1,5 @@
 
-
+require 'pry' 
 #def reverse_each_word (string)
 #reversed=[]
   #string=string.split("")
@@ -36,5 +36,6 @@ def reverse_each_word (string)
     end
     combined_reversed=string.join(" ")
     end
+    binding.pry
     combined_reversed
 end
