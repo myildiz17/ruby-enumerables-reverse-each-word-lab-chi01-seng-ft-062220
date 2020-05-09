@@ -8,4 +8,4 @@
 
 "selam kelam hacim"
 
-puts "selam kelam hacim".split("")
+p "selam kelam hacim".split("")
