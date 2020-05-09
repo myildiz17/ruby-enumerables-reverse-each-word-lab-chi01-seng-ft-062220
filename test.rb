@@ -18,3 +18,4 @@ count+=1
 end
 end
 p b
+p reversed
