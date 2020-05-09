@@ -15,13 +15,15 @@ def reverse_each_word (string)
       reversed<<element.reverse
     count+=1
     end
+  end
     combined_reversed= reversed.join(" ")
 
-    while count<string.size do
+    while count2<string.size do
       string.collect do |element|
       element.reverse
     count2+=1
     end
+  end
     string.join(" ")
     end
     combined_reversed
