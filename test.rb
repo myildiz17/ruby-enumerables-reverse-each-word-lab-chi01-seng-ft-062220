@@ -16,3 +16,4 @@ p ele.reverse
 count+=1
 end
 end
+p b
