@@ -1,2 +1,2 @@
 a=["ab cd"]
-a.split(" ")
+"ali veli deli".split(" ")
