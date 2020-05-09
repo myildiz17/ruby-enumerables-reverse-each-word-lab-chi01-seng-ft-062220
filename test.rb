@@ -1,3 +1,4 @@
 a=["Hello there, and how are you?"]
 
-p %w["Hello there, and how are you?"]
+#p b=%w["Hello there, and how are you?"]
+a.reverse_each_word
