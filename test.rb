@@ -13,6 +13,6 @@ count=0
 while count<3 do
   b.each do |ele|
 puts ele.reverse
-count+=
+count+=1
 end
 end
