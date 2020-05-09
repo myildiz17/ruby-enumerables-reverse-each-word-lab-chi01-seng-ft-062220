@@ -12,6 +12,8 @@ def reverse_each_word (string)
       reversed<<element.reverse
     count+=1
     end
-    p reversed.join(" ")
+    reversed.join(" ")
     end
 end
+
+puts reverse_each_word ("selam kelam hacim")
