@@ -8,4 +8,5 @@
 
 "selam kelam hacim"
 
-"selam kelam hacim".split("")
+puts "selam kelam hacim".split("")
+
