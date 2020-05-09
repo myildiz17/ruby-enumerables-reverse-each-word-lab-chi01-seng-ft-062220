@@ -1,10 +1,10 @@
 
 
 def reverse_each_word (string)
-reversed=[]
-  string=string.split("")
-  string.each do {|i| reversed.unshifted(i)}
-    "selam kelam hacim"
+#reversed=[]
+  #string=string.split("")
+  #string.each do {|i| reversed.unshifted(i)}
+  #  "selam kelam hacim"
 
     string=string.split(" ")
     count=0
