@@ -1,3 +1,3 @@
-a=["ali veli deli"]
-#puts "ali veli deli".split(" ")
-p %w["ali veli deli"]
+a=["Hello there, and how are you?"]
+
+p %w["Hello there, and how are you?"]
