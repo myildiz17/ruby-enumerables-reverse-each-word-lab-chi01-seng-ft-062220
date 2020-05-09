@@ -20,5 +20,3 @@ def reverse_each_word (string)
     end
     combined_reversed
 end
-
-
