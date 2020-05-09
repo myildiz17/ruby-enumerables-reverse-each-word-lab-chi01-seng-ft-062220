@@ -23,7 +23,7 @@ def reverse_each_word (string)
       element.reverse
     count2+=1
     end
-  end
+  
     string.join(" ")
     end
     combined_reversed
