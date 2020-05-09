@@ -13,5 +13,6 @@ count=0
 while count<3 do |ele|
 puts ele.reverse 
 end
+count+=
 end
 end
