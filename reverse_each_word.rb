@@ -17,6 +17,16 @@ def reverse_each_word (string)
     combined_reversed= reversed.join(" ")
     end
     combined_reversed
+
+    while count<string.size do
+      string.collect do |element|
+      element.reverse
+    count+=1
+    end
+    combined_reversed2= reversed.join(" ")
+    end
+    combined_reversed2
+    
 end
 
 
