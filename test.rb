@@ -1,2 +1,2 @@
 a=["ab cd"]
-"ali veli deli".split(" ")
+puts "ali veli deli".split(" ")
