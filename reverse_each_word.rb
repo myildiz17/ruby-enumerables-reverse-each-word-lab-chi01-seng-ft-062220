@@ -1,5 +1,5 @@
 
-require 'pry' 
+require 'pry'
 #def reverse_each_word (string)
 #reversed=[]
   #string=string.split("")
