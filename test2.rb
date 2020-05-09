@@ -15,7 +15,7 @@ def reverse_each_word (string)
     count+=1
     end
 
-    reversed.join(" ")
+    combined_reversed= reversed.join(" ")
     binding.pry
     end
 end
